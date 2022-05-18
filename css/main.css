@@ -45,7 +45,7 @@ h3 {
 p {
 	font-size: .8em;
 	line-height: 1.4em;
-    padding: 0 2em;
+    padding: 0 ;
 }
 
 /*The widths are in a percentage!*/
@@ -85,7 +85,7 @@ header nav ul li {
 	text-transform: uppercase;
 	font-weight: 700;
 	font-size: .9em;
-	padding: 0 0 10px;
+	padding: 0 0 20px;
 	display: inline;
 	display: flex;
     justify-content: center;
